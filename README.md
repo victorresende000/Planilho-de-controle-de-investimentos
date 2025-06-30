@@ -1,8 +1,2 @@
 # Planilho-de-controle-de-investimentos
-Este simulador foi criado para auxiliar investidores na projeção de aportes mensais e rendimentos provenientes de Fundos Imobiliários (FIIs), com foco em renda passiva.
-Como usar?
-Na aba controle de investimentos, coloque o seu salário e recebera uma sugestão de valor de investimentos.
-Agora é só preencher as opões com "Quanto investir por mês", "Por quantos anos?" e "taxa de rendimento mensal?"
-Após o preenchimento será retornado o patrimonio acumalado com base nos anos informados e os dividendos mensais esperados ao final do periodo.
-Abaixo será preenchido alguns cenários de forma automática.
-Abaixo pode ser selecioanado o perfil de investidor e receber sugestões em quais tipos de FIIs e percetual de aporte.
+Este simulador foi criado para auxiliar investidores na projeção de aportes mensais e rendimentos provenientes de Fundos Imobiliários (FIIs), com foco em renda passiva. Como usar? Na aba controle de investimentos, coloque o seu salário e recebera uma sugestão de valor de investimentos. Agora é só preencher as opões com "Quanto investir por mês", "Por quantos anos?" e "taxa de rendimento mensal?" Após o preenchimento será retornado o patrimônio acumulado com base nos anos informados e os dividendos mensais esperados ao final do período. Abaixo será preenchido alguns cenários de forma automática. Abaixo pode ser selecionado o perfil de investidor e receber sugestões em quais tipos de FIIs e percentual de aporte.
